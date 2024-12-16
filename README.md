@@ -1,5 +1,4 @@
 # Fun_with_code
-Hello everyone, we will be adding a bunch of misplaced code as our initialisation to git. So please make yourself comfortable.
+comit one.
+Retesting the comit whether it is happening or not
 
-# Getting started
-To be continued... anything
